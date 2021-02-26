@@ -1,0 +1,544 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fi",
+				"figcaption\tTag"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"Font-size",
+				"font-size\tproperty"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"bakcgroun",
+				"background-image\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"bakground",
+				"background-color\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"backgr",
+				"background-size\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"inli",
+				"inline\tdisplay"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"backgru",
+				"background-color\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"tran",
+				"transform\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"margn",
+				"margin-right\tproperty"
+			],
+			[
+				"append",
+				"appendChild"
+			],
+			[
+				"appen",
+				"Append"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"t",
+				"th\tTag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"balc",
+				"background-color\tproperty"
+			],
+			[
+				"backgroun",
+				"background-color\tproperty"
+			],
+			[
+				"user",
+				"user_error"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"demo",
+				"demo4"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"alin",
+				"align-items\tproperty"
+			],
+			[
+				"sectio",
+				"section1_right_1"
+			],
+			[
+				"TEXT",
+				"text-anchor\tproperty"
+			],
+			[
+				"left",
+				"left\tproperty"
+			],
+			[
+				"fea",
+				"featured_text1"
+			],
+			[
+				"fot",
+				"font-size\tproperty"
+			],
+			[
+				"bak",
+				"background-size\tproperty"
+			],
+			[
+				"cnatin",
+				"container_text_head"
+			],
+			[
+				"background",
+				"background-size\tproperty"
+			],
+			[
+				"mrgin",
+				"margin-right\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"flex",
+				"flex-start\tjustify-content"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"row",
+				"row2"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"re",
+				"RESOURCES"
+			],
+			[
+				"backgroud",
+				"background-color\tproperty"
+			],
+			[
+				"txt",
+				"txt1"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jotch/Desktop/qc1.c",
+		"/C/Users/jotch/Desktop/Adobe Lightroom/Road_Me_Important.txt",
+		"/C/Users/jotch/Desktop/WT Project ( semester 2 )/css/index.css",
+		"/C/Users/jotch/Downloads/isubtitles.net.txt",
+		"/C/Users/jotch/Downloads/Fonts.txt",
+		"/C/Users/jotch/Desktop/w3.html",
+		"/C/Users/jotch/Desktop/WT Project ( semester 2 )/jquery/header_scroll.js",
+		"/C/Users/jotch/Desktop/MS Office 2019 Pro Plus Retail x86 x64  MULTi-22 OCT 2018 {Gen2}/Extras/READ ME.txt",
+		"/C/Users/jotch/Desktop/MS Office 2019 Pro Plus Retail x86 x64  MULTi-22 OCT 2018 {Gen2}/Extras/My torrents.txt",
+		"/C/Users/jotch/Desktop/MS Office 2019 Pro Plus Retail x86 x64  MULTi-22 OCT 2018 {Gen2}/Extras/MS Office 2019 Pro Plus Retail X86 X64  MULTi-22 OCT 2018 {Gen2}.txt",
+		"/C/Users/jotch/Desktop/MS Office 2019 Pro Plus Retail x86 x64  MULTi-22 OCT 2018 {Gen2}/Extras/Hashes.txt",
+		"/C/Users/jotch/Desktop/MS Office 2019 Pro Plus Retail x86 x64  MULTi-22 OCT 2018 {Gen2}/Extras/KMS & 7-Zip/NOTE!.txt",
+		"/C/Users/jotch/Desktop/Web Dev/Hotel Project/Index.html",
+		"/C/Users/jotch/Desktop/boomerang_important.html",
+		"/C/Users/jotch/Desktop/Awesome_homepage.html",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advanced Web Technology/Transition_Transform.html",
+		"/C/Users/jotch/Desktop/WT Project ( semester 2 )/index.html",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advanced Web Technology/hide_usig_multiple_Class.html",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advanced Web Technology/doubt9.html",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advanced Web Technology/Scroll_event.html",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advanced Web Technology/Increase_size_using_animate.html",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advanced Web Technology/jquery_focus,fadeIn,fadeOut.html",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advanced Web Technology/jquery_focus.html",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advanced Web Technology/jquery_toogle_method.html",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advanced Web Technology/multiple_event_using_toogle.html",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advanced Web Technology/focusIn, focusOut.html",
+		"/D/MS Office 2019 Pro Plus Retail x86 x64  MULTi-22 OCT 2018 {Gen2}/Extras/Hashes.txt",
+		"/D/MS Office 2019 Pro Plus Retail x86 x64  MULTi-22 OCT 2018 {Gen2}/Extras/MS Office 2019 Pro Plus Retail X86 X64  MULTi-22 OCT 2018 {Gen2}.txt",
+		"/D/MS Office 2019 Pro Plus Retail x86 x64  MULTi-22 OCT 2018 {Gen2}/Extras/KMS & 7-Zip/NOTE!.txt",
+		"/C/Users/jotch/Downloads/Courses/Learn Python 3 from scratch to become a developer in demand/_PLEASE SUPPORT_/_Read MORE!_.txt",
+		"/C/Users/jotch/Downloads/Courses/Learn Python 3 from scratch to become a developer in demand/_PLEASE SUPPORT_/Javascript_trick.html",
+		"/C/Users/jotch/Desktop/Important/Important_googledrive.txt",
+		"/C/Users/jotch/Downloads/Courses/Learn Python 3 from scratch to become a developer in demand/Important ! Readme.txt",
+		"/C/Users/jotch/Downloads/complete-php-course/details.txt",
+		"/C/Users/jotch/Desktop/Important_googledrive.txt",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advanced Web Technology/jquery_animate.html",
+		"/C/Users/jotch/Desktop/Web Dev/Hotel Project/html/bookroom.html",
+		"/C/Users/jotch/Desktop/Web Dev/Hotel Project/css/bookroom.css",
+		"/C/Users/jotch/Desktop/Web Dev/Hotel Project/css/header.css",
+		"/C/Users/jotch/Desktop/test.html",
+		"/C/Users/jotch/Desktop/ideaaaas",
+		"/C/Users/jotch/Desktop/cut the stick.c",
+		"/C/Users/jotch/Desktop/c Notes.txt",
+		"/C/Users/jotch/Desktop/WT_class1.html",
+		"/C/Users/jotch/Desktop/wt_Quesstion.txt",
+		"/C/Users/jotch/Desktop/WT_class.html",
+		"/C/Users/jotch/Desktop/c Notes",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advanced Web Technology/jquery_.html",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advanced Web Technology/jquery_hide_slow.html",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advanced Web Technology/jquery_hide_show.html",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advanced Web Technology/jquery_Event_method.html",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advanced Web Technology/jquery_on_method.html",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advanced Web Technology/doubt8.html",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advanced Web Technology/doubt7.html",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advanced Web Technology/doubt6.html",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advanced Web Technology/doubt5.html",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advanced Web Technology/doubt4.html",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advanced Web Technology/doubt3.html",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advanced Web Technology/doubt2.html",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advanced Web Technology/doubt1.html",
+		"/C/Users/jotch/Desktop/jquery_file.js",
+		"/C/Users/jotch/Desktop/jquery.js",
+		"/C/Users/jotch/Desktop/jquery_Event_method.html",
+		"/C/Users/jotch/Desktop/jquery_all_method.html",
+		"/C/Users/jotch/Desktop/SEMESTER 2/Advance C-progamming/Square root.c",
+		"/C/Users/jotch/Desktop/jquery1.html",
+		"/C/Users/jotch/Desktop/Study/C-programming/New Text Document.txt",
+		"/C/Extraa/New folder/Linux.txt",
+		"/C/Users/jotch/Desktop/exam_ques17.html",
+		"/C/Users/jotch/Desktop/Form Validation Advanced.html",
+		"/C/Users/jotch/Desktop/exam_ques13.html",
+		"/C/Users/jotch/Desktop/exam_ques8.html",
+		"/C/Users/jotch/Desktop/Loading_Bar.html",
+		"/C/Users/jotch/Desktop/Watch_Analog.html",
+		"/C/Users/jotch/Desktop/Disco_light.html",
+		"/C/Users/jotch/Desktop/Animations.html",
+		"/C/Users/jotch/Desktop/Event_Listenter.html",
+		"/C/Users/jotch/Desktop/removeEventListener.html",
+		"/C/Users/jotch/Desktop/Insert_Before.html",
+		"/C/Users/jotch/Desktop/TO Check String length in Element Tag.html",
+		"/C/Users/jotch/Desktop/Check_Validity.html",
+		"/C/Users/jotch/Desktop/Form_validation.html",
+		"/C/Users/jotch/Desktop/Hover over Div Element.html",
+		"/C/Users/jotch/Desktop/h.html",
+		"/C/Users/jotch/Desktop/For_Each_function_javascript.html",
+		"/C/Users/jotch/Desktop/For_Each.html",
+		"/C/Users/jotch/Desktop/exam_ques16.html",
+		"/C/Users/jotch/Desktop/username and  password.html",
+		"/C/Users/jotch/Desktop/exam_ques15.html",
+		"/C/Users/jotch/Desktop/exam.ques14.html",
+		"/C/Users/jotch/Desktop/exam_ques12.html",
+		"/C/Users/jotch/Desktop/exam_ques11.html",
+		"/C/Users/jotch/Desktop/exam_ques10.html",
+		"/C/Users/jotch/Desktop/exam.ques9.html",
+		"/C/Users/jotch/Desktop/exam_ques4.html",
+		"/C/Users/jotch/Desktop/exam_ques2.html",
+		"/C/Users/jotch/Desktop/exam_ques5.html",
+		"/C/Users/jotch/Desktop/exam_ques6.html",
+		"/C/Users/jotch/Desktop/exam_ques7.html",
+		"/C/Users/jotch/Desktop/Web Dev/Hotel Project/html/exam_ques7.html",
+		"/C/Users/jotch/Desktop/exam_ques3.html",
+		"/C/Users/jotch/Desktop/exam_ques1.html",
+		"/C/Users/jotch/Desktop/Study/C-programming/2-d Array of string with pointer.c",
+		"/C/Users/jotch/Desktop/Web Dev/Hotel Project/html/Error1.c",
+		"/C/Users/jotch/Desktop/Study/C-programming/Maximum Prime Factor of a number.c",
+		"/C/Users/jotch/Desktop/nama popli",
+		"/C/Users/jotch/Desktop/Aditi's/.fseventsd/fseventsd-uuid",
+		"/C/Users/jotch/Desktop/Aditi's/.fseventsd/0000000000001838",
+		"/C/Users/jotch/Desktop/Web Dev/Hotel Project/html/username and  password.html",
+		"/C/Users/jotch/Desktop/Study/Java Questions.js",
+		"/C/Users/jotch/Desktop/Study/abhishek/Javascript/form_validation/form_validation.html",
+		"/C/Users/jotch/Desktop/Study/abhishek/Javascript/form_validation/script.js",
+		"/C/Users/jotch/Desktop/Study/abhishek/Javascript/form_validation/style.css",
+		"/C/Extraa/Computer/Dell computer/DELL_COMPUTER/Game of Thrones Season 1 Complete 720p BluRay With ESubs - ExtraMovies/ExtraMovies.cc.txt",
+		"/C/Users/jotch/Desktop/Study/abhishek/Javascript/form_validation/._form_validation.html",
+		"/C/Users/jotch/Desktop/Study/javascript.js",
+		"/C/Users/jotch/Desktop/test_validate.html",
+		"/C/Users/jotch/Desktop/Web Dev/Hotel Project/html/Event_Listenter.html",
+		"/C/Users/jotch/Desktop/C_loop_problem_square.c",
+		"/C/Users/jotch/Desktop/Web Dev/Hotel Project/html/Header.html",
+		"/C/Users/jotch/Desktop/Web Dev/Hotel Project/css/index.css",
+		"/C/Users/jotch/Desktop/bookroom.html",
+		"/C/Users/jotch/Desktop/Kartik  HTML Project/html/main.html",
+		"/C/Users/jotch/Desktop/Kartik  HTML Project/css/main.css",
+		"/C/Users/jotch/Desktop/Kartik  HTML Project/css/index.css",
+		"/C/Users/jotch/Desktop/Kartik  HTML Project/Index.html",
+		"/C/Users/jotch/Desktop/HTML Project - Copy/CSS/index.css",
+		"/C/Users/jotch/Desktop/HTML Project - Copy/INDEX.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 160.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

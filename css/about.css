@@ -1,0 +1,185 @@
+	@import 'https://fonts.googleapis.com/css?family=Raleway';
+
+	*{
+		box-sizing: border-box;
+	}
+	html{
+		scroll-behavior:smooth;
+	}
+	body{
+		font-family: arial;
+    	margin:0;
+    	padding:0;
+		z-index: 1;
+		height: 2000px;
+		background-color: black;
+	}
+	.se-pre-con {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url("../videos/preloaderGif.gif") center no-repeat #fff;
+}
+	div.header
+	{
+	    font-family: Raleway;
+		padding: 30px 100px;
+		text-align: center;
+	}
+	div.header a
+	{
+	    text-decoration: none;
+	    font: 20px Raleway;
+	    margin: 0px 10px;
+	    padding: 10px 10px;
+	    position: relative;
+	    cursor: pointer;
+	     color: white;
+	    text-shadow:
+	    0 0 5px #fff,
+	    0 0 10px #fff,
+	    0 0 20px #fff,
+	    0 0 40px #0ff,
+	    0 0 80px #0ff;
+	}
+	.color
+	{
+	    background: black;
+	}
+
+	div.topBotomBordersOut a:before, div.topBotomBordersOut a:after
+	{
+	    position: absolute;
+	    left: 0px;
+	    width: 100%;
+	    height: 2px;
+	    background: #FFF;
+	    content: "";
+	    opacity: 0;
+	    transition: all 0.3s;
+	}
+
+	div.topBotomBordersOut a:before
+	{
+	    top: 0px;
+	    transform: translateY(10px);
+	}
+
+	div.topBotomBordersOut a:after
+	{
+	    bottom: 0px;
+	    transform: translateY(-10px);
+	}
+
+	div.topBotomBordersOut a:hover:before, div.topBotomBordersOut a:hover:after
+	{
+	    opacity: 1;
+	    transform: translateY(0px);
+	}
+
+	h2{
+		font-family: Fjalla One;
+		font-weight:400;
+		font-style:italic;
+	}
+	.textBody p{
+		font-size:15px;
+	}
+	#fixedImage{
+		background-image:url("../images/aboutUsImage.jpg");
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: cover;
+		width: 100%;
+		height: 520px;
+	}	
+	.large{
+		text-align: center;
+		color: white;
+		font-weight:bold;
+		font-family: 'Helvetica';
+	}
+	.mainText{
+		font-size: 90px;
+		font-family:Bilbo Swash Caps;
+	}
+	.about{
+		text-align: center;
+		margin-top: 70px;
+		border-left: 3px solid grey;
+		border-right: 3px solid grey;
+	}
+	.aboutLine{
+		text-align:center;
+		color:grey;
+		margin-bottom: 70px;
+	}
+	.aboutText{
+		max-width: 300px;
+	}
+	.textBody{
+		margin-left: 150px;
+		margin-top: 40px;
+		text-align: left;
+	}
+	.footerImage{
+		background-image: url("../images/aboutFooter.jpg");
+		background-size: cover;
+		height: 250px;
+	}
+	.aboutButton{
+		margin-left:27%;
+		margin-top:6%; 
+	}	
+	.fa{		
+	    padding: 18px 30px 17px 18px;
+	    font-size: 30px;
+	    width: 30px;
+	    text-align: center;
+	    text-decoration: none;
+	    margin: 5px 2px;
+	    border-radius: 50%;
+	}		
+	.fa:hover {
+	    opacity: 0.7;
+	}
+	.fa-facebook {
+	    background: #3B5998;
+	    color: white;
+	}
+	.fa-twitter {
+	    background: #55ACEE;
+	    color: white;
+	}
+	.fa-google {
+	    background: #dd4b39;
+	    color: white;
+	}
+	.fa-instagram {
+   		background: #125688;
+    	color: white;
+ 	}
+ 	#companyLogo{
+ 		height: 110px;
+ 		width: 130px;
+ 		margin-top: 18px;
+ 		margin-bottom: 18px;
+ 	}
+ 	.footerButton{
+ 		margin-top:45px;
+ 		font-size:19.5px !important; 
+ 		color: #55ACEE !important;
+
+ 	}
+	#footer{
+		clear: both;
+		text-align: center;
+		height: 280px;
+		width: 100%;
+	    bottom: 0;
+	    background-image:url("../images/footerImage.jpg");
+	    color: white;
+	}

@@ -1,0 +1,23 @@
+$(function(){
+	$(".se-pre-con").fadeOut(3000);
+	$(window).scroll(function(){
+		if($(this).scrollTop() > 600)
+		{
+			$("#image1").animate({marginTop:"0px"},"slow");
+		}
+		if($(this).scrollTop()>1930)
+		{
+			$("#column5-left").animate({marginTop:"0px"},{duration:850});
+			$("#column5-right").animate({marginTop:"0px"},{duration:1350});
+		}
+		if($(this).scrollTop()>3000)
+		{
+			$(".buttonAnimate").animate({marginTop:"-500px"},"slow");	
+		}
+	});
+	$(".dealer_button").hover(function(){
+		$(this).css("background-color","#3333FF");
+	},function(){
+		$(this).css("background-color","rgb(0,170,238)");
+	});
+});

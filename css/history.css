@@ -1,0 +1,161 @@
+	*{
+		box-sizing: border-box;
+	}
+	html{
+		scroll-behavior:smooth;
+	}
+	body{
+		font-family: arial;
+    	margin:0;
+    	padding:0;
+		z-index: 1;
+	}
+	.se-pre-con {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url("../videos/preloaderGif.gif") center no-repeat #fff;
+}
+	#history_main{
+		position: relative;
+	}
+	#main_caption{
+		position: absolute;
+		font-family: Courier;
+		color: white;
+		font-size: 75px;
+		top:0px;
+		left: 100px;
+	/*	background-color: rgba(255,255,255,0.4);
+	*/	height:160px;
+		width:300px;
+		text-align: center;
+		padding-top: 40px;
+	}
+	.dealer_button
+	{
+		position: absolute;
+		font-family: Courier;
+		color:white;
+		font-size: 24px;
+		padding-top: 7px;
+		top:330px;
+		left: 100px;
+		background-color: rgba(0,170,238,1);
+		height:50px;
+		width:270px;
+		text-align: center;
+		border-radius: 23px;
+			}
+
+	#main_background{
+		width: 100%;
+	}
+	#main_2{
+		margin: 0px 200px 0px 200px;
+	}
+	#image1{
+		margin:200px 100px 50px;
+	}
+	.sticky_heading{
+		text-align: right;
+		float: left;
+		height: 600px;
+		width:500px;
+		margin-left:90px; 
+		margin-right: 80px;
+		padding-bottom: 63px;
+		font-size: 35px;
+		font-family: Courier;
+	}
+	.sticky{
+			position: sticky;	
+		top:0;	
+	}
+	.article{
+		float: left;
+		height: 600px;
+		width:300px;
+		margin-right:90px; 
+		font-size: 13.5px;
+	}
+	.column5{
+		float: left;
+		margin:0 auto;
+		margin-top: 
+	}
+	#column5-left{
+		margin-left: 74px;
+		margin-right: 50px;
+		margin-top: 160px;
+	}
+	#column5-right{
+		margin-top: 230px;
+	}	
+	.text1{
+		margin-top: 1100px;
+	}
+	.buttons{
+		background-image: url(../images/button_image.jpg);
+		height:200px;
+		width: 100%;
+		margin-top:1750px;
+		padding-top:60px;
+		text-align : center;
+	}
+	.large_end{
+		font-size:70px;
+		font-family: Courier; 
+	}
+	.fa{		
+	    padding: 18px 30px 17px 18px;
+	    font-size: 30px;
+	    width: 30px;
+	    text-align: center;
+	    text-decoration: none;
+	    margin: 5px 2px;
+	    border-radius: 50%;
+	}		
+	.fa:hover {
+	    opacity: 0.7;
+	}
+	.fa-facebook {
+	    background: #3B5998;
+	    color: white;
+	}
+	.fa-twitter {
+	    background: #55ACEE;
+	    color: white;
+	}
+	.fa-google {
+	    background: #dd4b39;
+	    color: white;
+	}
+	.fa-instagram {
+   		background: #125688;
+    	color: white;
+ 	}
+ 	#companyLogo{
+ 		height: 110px;
+ 		width: 130px;
+ 		margin-top: 18px;
+ 		margin-bottom: 18px;
+ 	}
+ 	.footerButton{
+ 		margin-top:45px;
+ 		font-size:19.5px !important; 
+ 		color: #55ACEE !important;
+
+ 	}
+	#footer{
+		clear: both;
+		text-align: center;
+		height: 280px;
+		width: 100%;
+	    bottom: 0;
+	    background-image:url("../images/footerImage.jpg");
+	    color: white;
+	}

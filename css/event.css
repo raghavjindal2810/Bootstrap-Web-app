@@ -1,0 +1,189 @@
+	@import 'https://fonts.googleapis.com/css?family=Raleway';
+
+	*{
+		box-sizing: border-box;
+	}
+	html{
+		scroll-behavior:smooth;
+	}
+	body{
+		font-family: arial;
+    	margin:0;
+    	padding:0;
+		z-index: 1;
+		height: 2000px;
+		background-color: black;
+	}
+	.se-pre-con {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url("../videos/preloaderGif.gif") center no-repeat #fff;
+}
+
+	div.header
+	{
+	    font-family: Raleway;
+		padding: 30px 100px;
+		text-align: center;
+	}
+	div.header a
+	{
+	    text-decoration: none;
+	    font: 20px Raleway;
+	    margin: 0px 10px;
+	    padding: 10px 10px;
+	    position: relative;
+	    cursor: pointer;
+	     color: white;
+	    text-shadow:
+	    0 0 5px #fff,
+	    0 0 10px #fff,
+	    0 0 20px #fff,
+	    0 0 40px #0ff,
+	    0 0 80px #0ff;
+	}
+
+	.color
+	{
+	    background: black;
+	}
+
+	div.topBotomBordersOut a:before, div.topBotomBordersOut a:after
+	{
+	    position: absolute;
+	    left: 0px;
+	    width: 100%;
+	    height: 2px;
+	    background: #FFF;
+	    content: "";
+	    opacity: 0;
+	    transition: all 0.3s;
+	}
+
+	div.topBotomBordersOut a:before
+	{
+	    top: 0px;
+	    transform: translateY(10px);
+	}
+
+	div.topBotomBordersOut a:after
+	{
+	    bottom: 0px;
+	    transform: translateY(-10px);
+	}
+
+	div.topBotomBordersOut a:hover:before, div.topBotomBordersOut a:hover:after
+	{
+	    opacity: 1;
+	    transform: translateY(0px);
+	}
+
+
+	#front a{
+		color: black; 
+		text-decoration: none;
+	}
+	#frontText{
+		margin-left:-75%;
+		padding-bottom:20%;
+		color:black;
+		font-size: 80px;
+	}
+	#underline{
+		border-width:3px;
+		width:26%;
+		margin-right: 550px;
+	}
+	hr{
+		width: 100%;
+	}
+	#frontText2{
+		font-size: 20px;
+		margin-top: 0px;
+		margin-left: 100px;
+	}
+	#discover{
+		position: absolute;
+		margin-top: -280px;
+		margin-left: 40px;
+		height: 40px;
+		width: 90px;
+	}
+	#discover h1{
+		padding-left: 10px;
+		border-left: 4px solid black;
+	}
+	.eventPhotos{
+		padding: 10px;
+	}
+	
+	.pic{
+		margin-top: 30px;
+		-webkit-filter:grayscale(1);
+		-webkit-transition:all .8s ease-in-out;
+	}
+	.pic:hover{
+		-webkit-filter: grayscale(0);
+        -webkit-transform: scale(1.01);
+	}
+	.eventText{
+		padding: 20px;
+		margin-top: 40px;
+		height:400px;
+	}
+	.more{
+		display:none;
+	}
+	.fa{		
+	    padding: 18px 30px 17px 18px;
+	    font-size: 30px;
+	    width: 30px;
+	    text-align: center;
+	    text-decoration: none;
+	    margin: 5px 2px;
+	    border-radius: 50%;
+	}		
+	.fa:hover {
+	    opacity: 0.7;
+	}
+	.fa-facebook {
+	    background: #3B5998;
+	    color: white;
+	}
+	.fa-twitter {
+	    background: #55ACEE;
+	    color: white;
+	}
+	.fa-google {
+	    background: #dd4b39;
+	    color: white;
+	}
+	.fa-instagram {
+   		background: #125688;
+    	color: white;
+ 	}
+ 	#companyLogo{
+ 		height: 110px;
+ 		width: 130px;
+ 		margin-top: 18px;
+ 		margin-bottom: 18px;
+ 	}
+ 	.footerButton{
+ 		margin-top:45px;
+ 		font-size:19.5px !important; 
+ 		color: #55ACEE !important;
+
+ 	}
+	#footer{
+		clear: both;
+		text-align: center;
+		height: 280px;
+		width: 100%;
+	    bottom: 0;
+	    background-image:url("../images/footerImage.jpg");
+	    color: white;
+	}
